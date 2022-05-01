@@ -6,9 +6,9 @@ const PORT = process.env.PORT || 5000
 
 app.get('/', async (req, res, next) => {
   try {
-    const articles = JSON.parse(await readFile('articles.json', 'utf8'));
+    const content = JSON.parse(await readFile('content.json', 'utf8'));
 
-    res.status(200).send(articles);
+    res.status(200).send(content);
   } catch (error) {
     res
       .status(500)
