@@ -1,0 +1,24 @@
+{
+  "name": "tabs.api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.1",
+    "http": "0.0.1-security"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YaroslavAntoniuk/tabs.api.git"
+  },
+  "author": "Yarik Antoniuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YaroslavAntoniuk/tabs.api/issues"
+  },
+  "homepage": "https://github.com/YaroslavAntoniuk/tabs.api#readme"
+}

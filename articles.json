@@ -1,0 +1,19 @@
+{
+  "articles": [
+    {
+      "id": "thecompany",
+      "title": "The Company",
+      "text": "Binary Studio is a boutique software development agency with more than 13 years of experience. We differentiate ourselves by building strategic long-term partnerships with our clients and providing exceptional quality services at all stages of the application development lifecycle."
+    },
+    {
+      "id": "headoffice",
+      "title": "Head Office",
+      "text": "Binary Studio's head office is located in Lviv, Ukraine. The city combines a huge pool of highly skilled developers with a geographical and cultural proximity to Western markets."
+    },
+    {
+      "id": "ourstory",
+      "title": "Our Story",
+      "text": "After starting with just two developers in 2005, Binary Studio has become one of the best IT employers in Lviv and a reliable partner for dozens of companies all over the world."
+    }
+  ]
+}
